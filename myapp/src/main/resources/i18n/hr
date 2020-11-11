@@ -1,0 +1,19 @@
+hr_en.properties
+Min.emp.employeeId=Employee Numbers should be at least 207.
+Pattern.emp.firstName=Enter a firstName
+Pattern.emp.lastName=Enter a lastName
+Pattern.emp.email=Not a valid email.
+Pattern.emp.phoneNumber=Not a valid phone number.
+Digits.emp.salary=Salary can be up to 6 digits.
+DecimalMin.emp.commissionPct=Bonus rate can not be less than zero.
+DecimalMax.emp.commissionPct=Bonus rate must be less than 1.
+
+hr_ko.properties
+Min.emp.employeeId=사원번호는 207 이상이어야 합니다.
+Pattern.emp.firstName=이름을 입력하세요.
+Pattern.emp.lastName=성을 입력하세요.
+Pattern.emp.email=유효한 이메일이 아닙니다.
+Pattern.emp.phoneNumber=유효한 전화번호가 아닙니다.
+Digits.emp.salary=급여는 6자리 이상이 될 수 없습니다.
+DecimalMin.emp.commissionPct=보너스율은 0보다 작을 수 없습니다.
+DecimalMax.emp.commissionPct=보너스율은 1보다 작아야 합니다.
